@@ -1,0 +1,17 @@
+body {
+  background-color: orange;
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+table {
+  background-color: white;
+}
+
+* {
+  font-family: Helvetica;
+}
+
